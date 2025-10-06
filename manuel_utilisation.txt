@@ -1,0 +1,4 @@
+Pour modifier les paramètres de mon code il y a 3 choses sur lequel vous pouvez agir :
+	- la 1ère est la taille de l'échantillon. Il faut aller ligne 210 pour cela.
+	- la 2ème est la fonction utilisé pour générer les points rouge ou bleu. Il faut aller ligne 203 pour cela.
+	- la 3ème est le chemin de l'image généré. Il faut aller ligne 210 pour cela.
